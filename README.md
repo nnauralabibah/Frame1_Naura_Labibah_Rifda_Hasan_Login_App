@@ -1,6 +1,7 @@
-# login_app
+# Frame 1 - login_app
 
-A new Flutter project.
+Nama : Naura Labibah Rifda Hasan 
+NIM  : 2251504071110034
 
 ## Getting Started
 
