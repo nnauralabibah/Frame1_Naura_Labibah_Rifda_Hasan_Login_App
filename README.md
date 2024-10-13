@@ -2,8 +2,7 @@
 # Frame 1 - login_app
 
 **Prewiew**
-![image alt](https://github.com/nnauralabibah/Frame1_Naura_Labibah_Rifda_Hasan_Login_App/blob/6d00195e4ac19b813df80fc3e9bafc7b82ea90e2/Cuplikan%20layar%202024-10-13%20202904.png)
-
+![image alt](https://github.com/nnauralabibah/Frame1_Naura_Labibah_Rifda_Hasan_Login_App/blob/0de9be4a872e822197f07110ea5a943a3518ace6/Cuplikan%20layar%202024-10-13%20210418.png)
 
 
 ## Indentitas Mahasiswa
