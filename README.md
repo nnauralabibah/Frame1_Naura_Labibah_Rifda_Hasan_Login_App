@@ -1,17 +1,13 @@
+# Tugas Pengembangan Aplikasi Multi Platform 
 # Frame 1 - login_app
 
-Nama : Naura Labibah Rifda Hasan 
-NIM  : 2251504071110034
+**Prewiew**
+![image alt](https://github.com/nnauralabibah/Frame1_Naura_Labibah_Rifda_Hasan_Login_App/blob/6d00195e4ac19b813df80fc3e9bafc7b82ea90e2/Cuplikan%20layar%202024-10-13%20202904.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Indentitas Mahasiswa
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Nama :** Naura Labibah Rifda Hasan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**NIM  :** 2251504071110034
